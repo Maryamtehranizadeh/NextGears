@@ -1,5 +1,5 @@
 function Gears() {
-  return <div>Gears</div>;
+  return <h1>Gears</h1>;
 }
 
 export default Gears;

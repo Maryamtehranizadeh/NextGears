@@ -1,5 +1,5 @@
 function Wings() {
-  return <div>wings</div>;
+  return <h1>wings</h1>;
 }
 
 export default Wings;
