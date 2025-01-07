@@ -1,4 +1,4 @@
 function Article() {
-  return <div>Article</div>;
+  return <h1>Article</h1>;
 }
 export default Article;
